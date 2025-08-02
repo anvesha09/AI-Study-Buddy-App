@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy & Quiz Generator",
+  "description": "An AI-powered application that helps students study by summarizing documents, answering questions, and generating quizzes from uploaded course materials.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
